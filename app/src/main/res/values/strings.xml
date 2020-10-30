@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Timber</string>
+    <string name="app_name">AIMP2</string>
     <string name="action_settings">Settings</string>
 
     <string name="accessibility_play">Play</string>
@@ -166,5 +166,40 @@
     <string name="cast">Cast</string>
     <string name="now_playing_no_track_selected">\"No current track selected.</string>
     <string name="lyrics_loading">Loading...</string>
+    <string name="support_development">Support development</string>
+    <string name="clear">Clear</string>
+    <string name="delete_playlist">Delete playlist</string>
+    <string name="remove_from_playlist">Remove from playlist</string>
+    <string name="show_your_appreciation_and_support_the_development_of_timber_purchasing_any_of_the_below_product_also_unlocks_additional_now_playing_styles">Show your appreciation and support the development of Timber. Purchasing any of the below product also unlocks additional now playing styles.</string>
+    <string name="restoring_purchases">Restoring purchases..</string>
+    <string name="thanks_for_your_support">Thanks for your support!</string>
+    <string name="unable_to_process_purchase">Unable to process purchase</string>
+    <string name="purchases_restored">Your purchases has been restored. Thanks for your support</string>
+    <string name="no_purchase">No previous purchase found</string>
+    <string name="unable_to_initiate_purchase">Unable to initiate purchase</string>
+    <string name="external_storage">Timber will need to read external storage to display songs on your device.</string>
+    <string name="sure_delete_playlist">\"Are you sure you want to delete playlist \"</string>
+    <string name="delete">Delete</string>
+    <string name="create_new_playlist">Create new playlist</string>
+    <string name="create">Create</string>
+    <string name="enter_playlist_name">Enter playlist name</string>
+    <string name="created_playlist">Created playlist</string>
+    <string name="unable_to_create_playlist">Unable to create playlist</string>
+    <string name="logging_in">Logging in..</string>
+    <string name="no_media_found">No media found</string>
+    <string name="hide_auto_playlists">Hide auto playlists</string>
+    <string name="show_auto_playlists">Show auto playlists</string>
+    <string name="no_songs_in_queue">No songs in queue</string>
+    <string name="sorry_lyrics">Sorry, We don\'t have lyrics for this song yet.\n</string>
+    <string name="purchase">Purchase</string>
+    <string name="style_purchase">This now playing style is available after a one time purchase of any amount. Support development and unlock this style?</string>
+    <string name="restore_purchases">Restore purchases</string>
+    <string name="equalizer_not_found">Equalizer not found</string>
+    <string name="delete_song">Delete song?</string>
+    <string name="sure_delete">\"Are you sure you want to delete \"</string>
+    <string name="support">Support</string>
+    <string name="unlock">Support the development of AIMP2 and unlock all now playing styles</string>
+    <string name="restore_previous_purchases">Restore previous purchases</string>
+
 
 </resources>

@@ -8,7 +8,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <android.support.v7.widget.Toolbar
+        <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
@@ -22,7 +22,7 @@
             android:textSize="16sp"
             android:layout_gravity="center_horizontal"
             android:gravity="center_horizontal"
-            android:text="Show your appreciation and support the development of Timber. Purchasing any of the below product also unlocks additional now playing styles."/>
+            android:text="@string/show_your_appreciation_and_support_the_development_of_timber_purchasing_any_of_the_below_product_also_unlocks_additional_now_playing_styles"/>
 
 
         <ScrollView

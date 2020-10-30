@@ -16,9 +16,9 @@
     <string name="accessibility_browse">Посмотреть музыку</string>
 
     <string name="menu_sort_by">Сортировать по</string>
-    <string name="sort_order_entry_az">A-Z</string>
-    <string name="sort_order_entry_za">Z-A</string>
-    <string name="sort_order_entry_artist">Артисту</string>
+    <string name="sort_order_entry_az">A-Я</string>
+    <string name="sort_order_entry_za">Я-А</string>
+    <string name="sort_order_entry_artist">Исполнителю</string>
     <string name="sort_order_entry_album">Альбому</string>
     <string name="sort_order_entry_year">Году</string>
     <string name="sort_order_entry_track_number">Номеру трека</string>
@@ -50,7 +50,7 @@
 
     <string name="songs">Песни</string>
     <string name="albums">Альбомы</string>
-    <string name="artists">Артисты</string>
+    <string name="artists">Исполнители</string>
     <string name="library">Библиотека</string>
     <string name="playlists">Плей-листы</string>
     <string name="playing_queue">Играет в очереди</string>
@@ -76,7 +76,7 @@
     <string name="now_playing_selector">Выбрать тему для экрана проигрывания из 4-х различных стилей.</string>
     <string name="personalisation">Персонализация</string>
     <string name="other">Прочее</string>
-    <string name="timber_about_opensource">Timber это музыкальный плеер с открытым исходным кодом который разработан Наманом Двиведи.</string>
+    <string name="timber_about_opensource">AIMP2 это музыкальный плеер с открытым исходным кодом который разработан Эрмеком.</string>
     <string name="summary_pause_detach">Включить автоматическую паузу при отсоединении наушников</string>
     <string name="pause_detach">Пауза при отсоединении</string>
     <string name="currently_selected">Сейчас выбрано</string>
@@ -111,13 +111,71 @@
     <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> песня добавлена в плей-лист.</string>
     <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> песни добавлены в плей-лист.</string>
 
-    <string name="add_to_playlist">Добавить в список</string>
+    <string name="add_to_playlist">Добавить в плейлист</string>
     <string name="add_to_queue">В очередь</string>
     <string name="advanced">Дополнительно</string>
-    <string name="go_to_album">Альбом</string>
-    <string name="go_to_artist">Исполнитель</string>
+    <string name="go_to_album">Перейти в альбом</string>
+    <string name="go_to_artist">Перейти к исполнителью</string>
     <string name="new_playlist">Новый плейлист</string>
     <string name="play">Воспроизвести</string>
     <string name="play_next">Воспр. следующим</string>
+    <string name="folders">Мои папки</string>
+    <string name="support_development">Поддержка развития</string>
+    <string name="select_storage">Выберите хранилище</string>
+    <string name="menu_show_as_entry_default">По умолчанию</string>
+    <string name="clear">Очистить</string>
+    <string name="delete_playlist">Удалить плейлист</string>
+    <string name="menu_show_lyrics">Показать текст песни</string>
+    <string name="remove_from_queue">Удалить из очереди</string>
+    <string name="remove_from_playlist">Удалить из плейлиста</string>
+    <string name="share">Поделиться</string>
+    <string name="delete_from_device">Удалить с устройства</string>
+    <string name="show_your_appreciation_and_support_the_development_of_timber_purchasing_any_of_the_below_product_also_unlocks_additional_now_playing_styles">Выразите свою признательность и поддержите разработку AIMP2. Покупка любого из перечисленных ниже продуктов также открывает дополнительные стили игры.</string>
+    <string name="restoring_purchases">Восстановление покупок..</string>
+    <string name="thanks_for_your_support">Спасибо за поддержку!</string>
+    <string name="unable_to_process_purchase">Невозможно обработать покупку</string>
+    <string name="purchases_restored">Ваши покупки восстановлены. Спасибо за поддержку</string>
+    <string name="no_purchase">Предыдущей покупки не найдено</string>
+    <string name="unable_to_initiate_purchase">Невозможно инициировать покупку</string>
+    <string name="external_storage">AIMP2 необходимо будет прочитать внешнее хранилище для отображения песен на вашем устройстве.</string>
+    <string name="sure_delete_playlist">Вы уверены, что хотите удалить плейлист"</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отменить</string>
+    <string name="create_new_playlist">Создать новый плейлист</string>
+    <string name="create">Создать</string>
+    <string name="enter_playlist_name">Введите название плейлиста</string>
+    <string name="created_playlist">Плейлист создан</string>
+    <string name="unable_to_create_playlist">Невозможно создать плейлист</string>
+    <string name="lastfm_login">Войти в LastFM</string>
+    <string name="logging_in">Происходит вход в систему..</string>
+    <string name="lastfm_login_failture">Не удалось войти</string>
+    <string name="no_media_found">СМИ не найдены</string>
+    <string name="hide_auto_playlists">Скрыть автоматические плейлисты</string>
+    <string name="show_auto_playlists">Показать автоматические плейлисты</string>
+    <string name="no_songs_in_queue">В очереди нет песен</string>
+    <string name="lastfm_loged_in">Вы вошли как %s</string>
+    <string name="lastfm_pref">Войдите в LastFM, чтобы скробблировать</string>
+    <string name="now_playing_no_track_selected">\"Текущий трек не выбран.</string>
+    <string name="no_lyrics">Тексты не найдены.</string>
+    <string name="sorry_lyrics">Извините, у нас пока нет текста для этой песни.\n</string>
+    <string name="purchase">Покупка</string>
+    <string name="style_purchase">Этот стиль игры теперь доступен после единовременной покупки на любую сумму. Поддержите развитие и откройте этот стиль?</string>
+    <string name="restore_purchases">Восстановить покупки</string>
+    <string name="equalizer_not_found">Эквалайзер не найден</string>
+    <string name="delete_song">Удалить песню?</string>
+    <string name="sure_delete">\"Вы уверены, что хотите удалить \"</string>
+    <string name="albumart_lockscreen_summary">Показывать обложки альбомов на заблокированном экране</string>
+    <string name="albumart_lockscreen">Экран блокировки</string>
+    <string name="load_artist_album_image_summary">Загрузить изображения исполнителей/альбомов с lastfm</string>
+    <string name="load_artist_album_image">Загрузить изображения исполнителя/альбома</string>
+    <string name="load_artist_album_image_mobile_summary">Загружать изображения исполнителя/альбома, даже если нет Wi-Fi</string>
+    <string name="load_artist_album_image_mobile">Загрузить изображения исполнителя/альбома на мобильные данные</string>
+    <string name="always_load_album_images_lastfm_summary">Если этот флажок не установлен, обложки альбомов будут извлекаться локально из файла песни, если он доступен.</string>
+    <string name="always_load_album_images_lastfm">Всегда загружать изображения альбомов с Last.fm</string>
+    <string name="summary_xposed_trackselector">Требуется установка модуля Xposed и XMediaNotificationTrackSelector Xposed. Это обеспечит доступ к очереди воспроизведения из самой панели уведомлений.</string>
+    <string name="xposed_trackselector">Поддержка очереди воспроизведения в уведомлении</string>
+    <string name="support">Поддержка</string>
+    <string name="unlock">Поддержите развитие AIMP2 и откройте все стили игры.</string>
+    <string name="restore_previous_purchases">Восстановить предыдущие покупки</string>
 
 </resources>
